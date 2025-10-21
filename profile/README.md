@@ -6,8 +6,8 @@
 <p align="center">
   <a href="https://makerfriends.com"><img alt="Website" src="https://img.shields.io/badge/website-makerfriends.com-blue"></a>
   <a href="https://github.com/MakerFriends"><img alt="GitHub Org" src="https://img.shields.io/badge/github-@MakerFriends-black"></a>
-  <a href="https://4dd4d3ce.makerfriends-com-website.pages.dev/blog/"><img alt="Blog" src="https://img.shields.io/badge/blog-updates-green"></a>
-  <a href="https://4dd4d3ce.makerfriends-com-website.pages.dev/donate/"><img alt="Donate" src="https://img.shields.io/badge/donate-support-orange"></a>
+  <a href="https://makerfriends.com/blog/"><img alt="Blog" src="https://img.shields.io/badge/blog-updates-green"></a>
+  <a href="https://makerfriends.com/donate/"><img alt="Donate" src="https://img.shields.io/badge/donate-support-orange"></a>
   <a href="https://opensource.org/licenses/MIT"><img alt="License MIT" src="https://img.shields.io/badge/license-MIT-lightgrey"></a>
 </p>
 
