@@ -1,7 +1,7 @@
 <!-- Social preview: put a 1280x640 image at assets/brand/makerfriends-social-preview.png -->
-<p align="center">
+<!-- <p align="center">
   <img src="assets/brand/makerfriends-banner.png" alt="MakerFriends banner" width="100%" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://makerfriends.com"><img alt="Website" src="https://img.shields.io/badge/website-makerfriends.com-blue"></a>
@@ -25,7 +25,7 @@
 ## 💡 Why it exists
 We make building things fun, accessible, and social. Low-cost parts, printable assets, and free curricula so anyone can start today.
 
-## 🧭 Quick links
+## Quick links
 - <img src="assets/icons/link.svg" width="16"> Website: https://makerfriends.com  
 - <img src="assets/icons/rocket.svg" width="16"> Projects: `/projects`  
 - <img src="assets/icons/people.svg" width="16"> Makers: `/makers`  
@@ -34,7 +34,7 @@ We make building things fun, accessible, and social. Low-cost parts, printable a
 - <img src="assets/icons/mail.svg" width="16"> Contact: `/contact`  
 - <img src="assets/icons/heart.svg" width="16"> Donate: `/donate`
 
-## 🗺️ Featured areas
+## Featured areas
 <div align="center">
   <table>
     <tr>
@@ -66,13 +66,13 @@ See `CODE_OF_CONDUCT.md` and `CONTRIBUTING.md` (coming soon).
 
 ## ❤️ Support the mission
 Membership is free. Donations keep projects, classroom kits, and community challenges moving.  
-<a href="https://4dd4d3ce.makerfriends-com-website.pages.dev/donate/"><img src="https://img.shields.io/badge/Support-MakerFriends-orange" alt="Support MakerFriends"></a>
+<a href="https://makerfriends.com/donate/"><img src="https://img.shields.io/badge/Support-MakerFriends-orange" alt="Support MakerFriends"></a>
 
 ## 📄 License
 Unless noted otherwise, content and code are released under the MIT License.
 
 <p align="center">
-  <img src="assets/icons/dog-bot.svg" alt="Robot dog mascot" width="56"><br>
+  <!-- <img src="assets/icons/dog-bot.svg" alt="Robot dog mascot" width="56"><br> -->
   <i>Build together. Learn together.</i>
 </p>
 
