@@ -19,7 +19,7 @@
 ## 🔧 What we do
 - <img src="assets/icons/tool.svg" width="18" alt="Projects icon"> **Hands-on projects:** electronics, robotics, woodworking, 3D printing.
 - <img src="assets/icons/users.svg" width="18" alt="People icon"> **Community directory:** find collaborators and mentors.
-- <img src="assets/icons/building-warehouse.svg" width="18" alt="MakerSpaces icon"> **MakerSpace finder:** equipment, pricing, specialties.
+- <img src="assets/icons/space.svg" width="18" alt="MakerSpaces icon"> **MakerSpace finder:** equipment, pricing, specialties.
 - <img src="assets/icons/book.svg" width="18" alt="Learning icon"> **Learning hub:** tutorials and printables.
 
 ## 💡 Why it exists
