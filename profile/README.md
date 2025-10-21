@@ -41,18 +41,20 @@ We make building things fun, accessible, and social. Low-cost parts, printable a
       <td align="center" width="25%"><img src="assets/icons/electronics.svg" width="36"><br><b>Electronics</b><br>LEDs, sensors, power</td>
       <td align="center" width="25%"><img src="assets/icons/robot.svg" width="36"><br><b>Robotics</b><br>motion, control, AI</td>
       <td align="center" width="25%"><img src="assets/icons/wood.svg" width="36"><br><b>Fabrication</b><br>wood, laser, CNC</td>
-      <td align="center" width="25%"><img src="assets/icons/print.svg" width="36"><br><b>3D + Paper</b><br>models, props, pop-ups</td>
+      <td align="center" width="25%"><img src="assets/icons/paper.svg" width="36"><br><b>3D + Paper</b><br>models, props, pop-ups</td>
     </tr>
   </table>
 </div>
 
 ## 📦 Repos in this org
+```
 makerfriends/
 ├─ projects/ # Build guides, code, and printables
 ├─ curriculum/ # Lesson plans, pacing, rubrics
 ├─ site/ # Astro site for makerfriends.com
 ├─ assets/ # Logos, mascot art, diagrams, icons
 └─ docs/ # Org docs and how-tos
+```
 
 ## 🤝 Contributing
 1) Fork the repo you want to help with  
